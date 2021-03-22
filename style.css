@@ -1,0 +1,18 @@
+nav
+{
+    background-color: black;
+    background-image: image()
+}
+
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+section {
+    text-align:center;
+    border: 2px solid brown;
+    margin: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
